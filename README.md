@@ -20,20 +20,20 @@ The model is built using **Logistic Regression**, a supervised machine learning 
 (1 = Has heart disease, 0 = No heart disease)
 
 **Key Features:**
-- `male` – Gender (1 = Male, 0 = Female)
-- `age` – Age in years
-- `currentSmoker` – Whether the person smokes
-- `cigsPerDay` – Cigarettes smoked per day
-- `BPMeds` – BP medication (1 = Yes)
-- `prevalentStroke` – History of stroke
-- `prevalentHyp` – Hypertension
-- `diabetes` – Diabetes present
-- `totChol` – Total cholesterol
-- `sysBP` – Systolic blood pressure
-- `diaBP` – Diastolic blood pressure
-- `BMI` – Body Mass Index
-- `heartRate` – Heart rate
-- `glucose` – Glucose level
+- `male` â€“ Gender (1 = Male, 0 = Female)
+- `age` â€“ Age in years
+- `currentSmoker` â€“ Whether the person smokes
+- `cigsPerDay` â€“ Cigarettes smoked per day
+- `BPMeds` â€“ BP medication (1 = Yes)
+- `prevalentStroke` â€“ History of stroke
+- `prevalentHyp` â€“ Hypertension
+- `diabetes` â€“ Diabetes present
+- `totChol` â€“ Total cholesterol
+- `sysBP` â€“ Systolic blood pressure
+- `diaBP` â€“ Diastolic blood pressure
+- `BMI` â€“ Body Mass Index
+- `heartRate` â€“ Heart rate
+- `glucose` â€“ Glucose level
 
 ---
 
