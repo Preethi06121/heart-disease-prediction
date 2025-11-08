@@ -17,4 +17,4 @@ model.fit(x_train,y_train)
 predictions=model.predict(x_train)
 print("Accuracy:",accuracy_score(y_train,predictions))
 
-print("The person has heart disease (yes=1/no=0)",model.predict([[1,44,2,0,20,0,0,1,0,222,144,77,44,78,75]]))
+print("The person has heart disease (yes=1/no=0)",model.predict([[1,44,2,0,18,0,0,1,0,222,144,77,44,78,75]]))
